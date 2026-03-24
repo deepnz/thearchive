@@ -1,17 +1,59 @@
 import AuthenticationServices
 import Combine
+import Security
 
 @MainActor
 final class AuthService: NSObject, ObservableObject {
     @Published var isSignedIn: Bool = false
     @Published var userID: String? = nil
 
-    private let userIDKey = "archive.userID"
+    private let keychainService = "deepak-nalla.TheArchive"
+    private let keychainAccount = "appleUserID"
 
     override init() {
         super.init()
-        userID = UserDefaults.standard.string(forKey: userIDKey)
+        userID = Self.keychainRead(service: keychainService, account: keychainAccount)
         isSignedIn = userID != nil
+    }
+
+    // MARK: - Keychain helpers
+
+    private static func keychainRead(service: String, account: String) -> String? {
+        let query: [CFString: Any] = [
+            kSecClass: kSecClassGenericPassword,
+            kSecAttrService: service,
+            kSecAttrAccount: account,
+            kSecReturnData: true,
+            kSecMatchLimit: kSecMatchLimitOne
+        ]
+        var result: AnyObject?
+        guard SecItemCopyMatching(query as CFDictionary, &result) == errSecSuccess,
+              let data = result as? Data else { return nil }
+        return String(data: data, encoding: .utf8)
+    }
+
+    private static func keychainWrite(service: String, account: String, value: String) {
+        let data = Data(value.utf8)
+        let query: [CFString: Any] = [
+            kSecClass: kSecClassGenericPassword,
+            kSecAttrService: service,
+            kSecAttrAccount: account
+        ]
+        let attributes: [CFString: Any] = [kSecValueData: data]
+        if SecItemUpdate(query as CFDictionary, attributes as CFDictionary) == errSecItemNotFound {
+            var newItem = query
+            newItem[kSecValueData] = data
+            SecItemAdd(newItem as CFDictionary, nil)
+        }
+    }
+
+    private static func keychainDelete(service: String, account: String) {
+        let query: [CFString: Any] = [
+            kSecClass: kSecClassGenericPassword,
+            kSecAttrService: service,
+            kSecAttrAccount: account
+        ]
+        SecItemDelete(query as CFDictionary)
     }
 
     // Called on each app foreground — checks credential is still valid
@@ -36,7 +78,7 @@ final class AuthService: NSObject, ObservableObject {
         switch result {
         case .success(let auth):
             guard let credential = auth.credential as? ASAuthorizationAppleIDCredential else { return }
-            UserDefaults.standard.set(credential.user, forKey: userIDKey)
+            Self.keychainWrite(service: keychainService, account: keychainAccount, value: credential.user)
             userID = credential.user
             isSignedIn = true
         case .failure:
@@ -49,7 +91,7 @@ final class AuthService: NSObject, ObservableObject {
     }
 
     private func clearSession() {
-        UserDefaults.standard.removeObject(forKey: userIDKey)
+        Self.keychainDelete(service: keychainService, account: keychainAccount)
         userID = nil
         isSignedIn = false
     }

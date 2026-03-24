@@ -33,10 +33,17 @@ final class CloudKitService: ObservableObject {
     func fetchAllItems() async throws -> [LibraryItem] {
         let query = CKQuery(recordType: LibraryItem.recordType,
                             predicate: NSPredicate(value: true))
-        let (results, _) = try await db.records(matching: query)
-        return results.compactMap { _, result in
-            try? result.get()
-        }.compactMap { LibraryItem(record: $0) }
+        var items: [LibraryItem] = []
+        var cursor: CKQueryOperation.Cursor? = nil
+        repeat {
+            let (results, nextCursor) = cursor == nil
+                ? try await db.records(matching: query)
+                : try await db.records(continuingMatchFrom: cursor!)
+            items += results.compactMap { _, result in try? result.get() }
+                            .compactMap { LibraryItem(record: $0) }
+            cursor = nextCursor
+        } while cursor != nil
+        return items
     }
 
     func saveItem(_ item: LibraryItem) async throws {
@@ -97,10 +104,17 @@ final class CloudKitService: ObservableObject {
     func fetchAllWatchlists() async throws -> [Watchlist] {
         let query = CKQuery(recordType: Watchlist.recordType,
                             predicate: NSPredicate(value: true))
-        let (results, _) = try await db.records(matching: query)
-        return results.compactMap { _, result in
-            try? result.get()
-        }.compactMap { Watchlist(record: $0) }
+        var lists: [Watchlist] = []
+        var cursor: CKQueryOperation.Cursor? = nil
+        repeat {
+            let (results, nextCursor) = cursor == nil
+                ? try await db.records(matching: query)
+                : try await db.records(continuingMatchFrom: cursor!)
+            lists += results.compactMap { _, result in try? result.get() }
+                            .compactMap { Watchlist(record: $0) }
+            cursor = nextCursor
+        } while cursor != nil
+        return lists
     }
 
     func saveWatchlist(_ list: Watchlist) async throws {

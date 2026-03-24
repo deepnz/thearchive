@@ -17,6 +17,11 @@ struct LibraryItem: Identifiable, Hashable {
     var genres: [String]
     var watched: Bool
     var dateAdded: Date
+    // Preserved so updates retain the server changeTag
+    var ckRecord: CKRecord?
+
+    func hash(into hasher: inout Hasher) { hasher.combine(id) }
+    static func == (lhs: LibraryItem, rhs: LibraryItem) -> Bool { lhs.id == rhs.id }
 
     // MARK: - CKRecord keys
     private enum Keys {
@@ -34,8 +39,9 @@ struct LibraryItem: Identifiable, Hashable {
     static let recordType = "LibraryItem"
 
     func toCKRecord() -> CKRecord {
-        let recordID = CKRecord.ID(recordName: id)
-        let record = CKRecord(recordType: Self.recordType, recordID: recordID)
+        // Reuse the existing record to preserve the server changeTag for updates
+        let record = ckRecord ?? CKRecord(recordType: Self.recordType,
+                                          recordID: CKRecord.ID(recordName: id))
         record[Keys.catalogID] = catalogID
         record[Keys.iTunesID] = iTunesID
         record[Keys.title] = title
@@ -71,6 +77,7 @@ struct LibraryItem: Identifiable, Hashable {
         self.genres = record[Keys.genres] as? [String] ?? []
         self.watched = watchedInt == 1
         self.dateAdded = dateAdded
+        self.ckRecord = record
     }
 
     init(id: String, catalogID: String, iTunesID: String, title: String, year: Int,
@@ -85,5 +92,6 @@ struct LibraryItem: Identifiable, Hashable {
         self.genres = genres
         self.watched = watched
         self.dateAdded = dateAdded
+        self.ckRecord = nil
     }
 }
