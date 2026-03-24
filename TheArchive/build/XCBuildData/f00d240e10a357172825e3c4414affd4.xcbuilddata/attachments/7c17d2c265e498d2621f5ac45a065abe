@@ -1,0 +1,199 @@
+{
+  "" : {
+    "diagnostics" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/TheArchive-primary.dia",
+    "emit-module-dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/TheArchive-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/TheArchive-primary-emit-module.dia",
+    "pch" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/TheArchive-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/TheArchive-primary.swiftdeps"
+  },
+  "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/TheArchive/Models/LibraryItem.swift" : {
+    "const-values" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/LibraryItem.swiftconstvalues",
+    "dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/LibraryItem.d",
+    "diagnostics" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/LibraryItem.dia",
+    "index-unit-output-path" : "/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/LibraryItem.o",
+    "llvm-bc" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/LibraryItem.bc",
+    "object" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/LibraryItem.o",
+    "swift-dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/LibraryItem.swiftdeps",
+    "swiftmodule" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/LibraryItem~partial.swiftmodule"
+  },
+  "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/TheArchive/Models/Watchlist.swift" : {
+    "const-values" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/Watchlist.swiftconstvalues",
+    "dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/Watchlist.d",
+    "diagnostics" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/Watchlist.dia",
+    "index-unit-output-path" : "/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/Watchlist.o",
+    "llvm-bc" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/Watchlist.bc",
+    "object" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/Watchlist.o",
+    "swift-dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/Watchlist.swiftdeps",
+    "swiftmodule" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/Watchlist~partial.swiftmodule"
+  },
+  "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/TheArchive/Models/iTunesResult.swift" : {
+    "const-values" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/iTunesResult.swiftconstvalues",
+    "dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/iTunesResult.d",
+    "diagnostics" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/iTunesResult.dia",
+    "index-unit-output-path" : "/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/iTunesResult.o",
+    "llvm-bc" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/iTunesResult.bc",
+    "object" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/iTunesResult.o",
+    "swift-dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/iTunesResult.swiftdeps",
+    "swiftmodule" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/iTunesResult~partial.swiftmodule"
+  },
+  "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/TheArchive/Services/AuthService.swift" : {
+    "const-values" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/AuthService.swiftconstvalues",
+    "dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/AuthService.d",
+    "diagnostics" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/AuthService.dia",
+    "index-unit-output-path" : "/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/AuthService.o",
+    "llvm-bc" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/AuthService.bc",
+    "object" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/AuthService.o",
+    "swift-dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/AuthService.swiftdeps",
+    "swiftmodule" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/AuthService~partial.swiftmodule"
+  },
+  "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/TheArchive/Services/CloudKitService.swift" : {
+    "const-values" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/CloudKitService.swiftconstvalues",
+    "dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/CloudKitService.d",
+    "diagnostics" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/CloudKitService.dia",
+    "index-unit-output-path" : "/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/CloudKitService.o",
+    "llvm-bc" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/CloudKitService.bc",
+    "object" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/CloudKitService.o",
+    "swift-dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/CloudKitService.swiftdeps",
+    "swiftmodule" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/CloudKitService~partial.swiftmodule"
+  },
+  "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/TheArchive/Services/iTunesService.swift" : {
+    "const-values" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/iTunesService.swiftconstvalues",
+    "dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/iTunesService.d",
+    "diagnostics" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/iTunesService.dia",
+    "index-unit-output-path" : "/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/iTunesService.o",
+    "llvm-bc" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/iTunesService.bc",
+    "object" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/iTunesService.o",
+    "swift-dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/iTunesService.swiftdeps",
+    "swiftmodule" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/iTunesService~partial.swiftmodule"
+  },
+  "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/TheArchive/TheArchiveApp.swift" : {
+    "const-values" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/TheArchiveApp.swiftconstvalues",
+    "dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/TheArchiveApp.d",
+    "diagnostics" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/TheArchiveApp.dia",
+    "index-unit-output-path" : "/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/TheArchiveApp.o",
+    "llvm-bc" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/TheArchiveApp.bc",
+    "object" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/TheArchiveApp.o",
+    "swift-dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/TheArchiveApp.swiftdeps",
+    "swiftmodule" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/TheArchiveApp~partial.swiftmodule"
+  },
+  "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/TheArchive/Theme/ArchiveTheme.swift" : {
+    "const-values" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/ArchiveTheme.swiftconstvalues",
+    "dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/ArchiveTheme.d",
+    "diagnostics" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/ArchiveTheme.dia",
+    "index-unit-output-path" : "/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/ArchiveTheme.o",
+    "llvm-bc" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/ArchiveTheme.bc",
+    "object" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/ArchiveTheme.o",
+    "swift-dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/ArchiveTheme.swiftdeps",
+    "swiftmodule" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/ArchiveTheme~partial.swiftmodule"
+  },
+  "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/TheArchive/ViewModels/LibraryViewModel.swift" : {
+    "const-values" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/LibraryViewModel.swiftconstvalues",
+    "dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/LibraryViewModel.d",
+    "diagnostics" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/LibraryViewModel.dia",
+    "index-unit-output-path" : "/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/LibraryViewModel.o",
+    "llvm-bc" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/LibraryViewModel.bc",
+    "object" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/LibraryViewModel.o",
+    "swift-dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/LibraryViewModel.swiftdeps",
+    "swiftmodule" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/LibraryViewModel~partial.swiftmodule"
+  },
+  "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/TheArchive/ViewModels/SearchViewModel.swift" : {
+    "const-values" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/SearchViewModel.swiftconstvalues",
+    "dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/SearchViewModel.d",
+    "diagnostics" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/SearchViewModel.dia",
+    "index-unit-output-path" : "/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/SearchViewModel.o",
+    "llvm-bc" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/SearchViewModel.bc",
+    "object" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/SearchViewModel.o",
+    "swift-dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/SearchViewModel.swiftdeps",
+    "swiftmodule" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/SearchViewModel~partial.swiftmodule"
+  },
+  "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/TheArchive/ViewModels/WatchlistViewModel.swift" : {
+    "const-values" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/WatchlistViewModel.swiftconstvalues",
+    "dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/WatchlistViewModel.d",
+    "diagnostics" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/WatchlistViewModel.dia",
+    "index-unit-output-path" : "/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/WatchlistViewModel.o",
+    "llvm-bc" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/WatchlistViewModel.bc",
+    "object" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/WatchlistViewModel.o",
+    "swift-dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/WatchlistViewModel.swiftdeps",
+    "swiftmodule" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/WatchlistViewModel~partial.swiftmodule"
+  },
+  "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/TheArchive/Views/Auth/SignInView.swift" : {
+    "const-values" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/SignInView.swiftconstvalues",
+    "dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/SignInView.d",
+    "diagnostics" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/SignInView.dia",
+    "index-unit-output-path" : "/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/SignInView.o",
+    "llvm-bc" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/SignInView.bc",
+    "object" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/SignInView.o",
+    "swift-dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/SignInView.swiftdeps",
+    "swiftmodule" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/SignInView~partial.swiftmodule"
+  },
+  "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/TheArchive/Views/Library/DetailSheetView.swift" : {
+    "const-values" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/DetailSheetView.swiftconstvalues",
+    "dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/DetailSheetView.d",
+    "diagnostics" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/DetailSheetView.dia",
+    "index-unit-output-path" : "/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/DetailSheetView.o",
+    "llvm-bc" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/DetailSheetView.bc",
+    "object" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/DetailSheetView.o",
+    "swift-dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/DetailSheetView.swiftdeps",
+    "swiftmodule" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/DetailSheetView~partial.swiftmodule"
+  },
+  "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/TheArchive/Views/Library/GenrePillsView.swift" : {
+    "const-values" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/GenrePillsView.swiftconstvalues",
+    "dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/GenrePillsView.d",
+    "diagnostics" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/GenrePillsView.dia",
+    "index-unit-output-path" : "/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/GenrePillsView.o",
+    "llvm-bc" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/GenrePillsView.bc",
+    "object" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/GenrePillsView.o",
+    "swift-dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/GenrePillsView.swiftdeps",
+    "swiftmodule" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/GenrePillsView~partial.swiftmodule"
+  },
+  "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/TheArchive/Views/Library/LibraryView.swift" : {
+    "const-values" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/LibraryView.swiftconstvalues",
+    "dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/LibraryView.d",
+    "diagnostics" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/LibraryView.dia",
+    "index-unit-output-path" : "/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/LibraryView.o",
+    "llvm-bc" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/LibraryView.bc",
+    "object" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/LibraryView.o",
+    "swift-dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/LibraryView.swiftdeps",
+    "swiftmodule" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/LibraryView~partial.swiftmodule"
+  },
+  "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/TheArchive/Views/Library/PosterCardView.swift" : {
+    "const-values" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/PosterCardView.swiftconstvalues",
+    "dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/PosterCardView.d",
+    "diagnostics" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/PosterCardView.dia",
+    "index-unit-output-path" : "/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/PosterCardView.o",
+    "llvm-bc" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/PosterCardView.bc",
+    "object" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/PosterCardView.o",
+    "swift-dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/PosterCardView.swiftdeps",
+    "swiftmodule" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/PosterCardView~partial.swiftmodule"
+  },
+  "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/TheArchive/Views/Search/SearchView.swift" : {
+    "const-values" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/SearchView.swiftconstvalues",
+    "dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/SearchView.d",
+    "diagnostics" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/SearchView.dia",
+    "index-unit-output-path" : "/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/SearchView.o",
+    "llvm-bc" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/SearchView.bc",
+    "object" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/SearchView.o",
+    "swift-dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/SearchView.swiftdeps",
+    "swiftmodule" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/SearchView~partial.swiftmodule"
+  },
+  "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/TheArchive/Views/Watchlists/WatchlistsView.swift" : {
+    "const-values" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/WatchlistsView.swiftconstvalues",
+    "dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/WatchlistsView.d",
+    "diagnostics" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/WatchlistsView.dia",
+    "index-unit-output-path" : "/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/WatchlistsView.o",
+    "llvm-bc" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/WatchlistsView.bc",
+    "object" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/WatchlistsView.o",
+    "swift-dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/WatchlistsView.swiftdeps",
+    "swiftmodule" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/WatchlistsView~partial.swiftmodule"
+  },
+  "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

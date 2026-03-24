@@ -1,0 +1,152 @@
+{
+  "source": "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/TheArchive/Views/Library/LibraryView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Sign Out",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 60
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sign Out",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 61
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 62
+        }
+      },
+      {
+        "comment": "",
+        "key": "Are you sure you want to sign out?",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 64
+        }
+      },
+      {
+        "comment": "",
+        "key": "Type",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 73
+        }
+      },
+      {
+        "comment": "",
+        "key": "Account",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 104
+        }
+      },
+      {
+        "comment": "",
+        "key": "All",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 74
+        }
+      },
+      {
+        "comment": "",
+        "key": "Films",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 75
+        }
+      },
+      {
+        "comment": "",
+        "key": "Series",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 76
+        }
+      },
+      {
+        "comment": "",
+        "key": "A–Z",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 85
+        }
+      },
+      {
+        "comment": "",
+        "key": "Z–A",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 86
+        }
+      },
+      {
+        "comment": "",
+        "key": "Year: Newest",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 87
+        }
+      },
+      {
+        "comment": "",
+        "key": "Year: Oldest",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 88
+        }
+      },
+      {
+        "comment": "",
+        "key": "Newest Added",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 89
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sort",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 91
+        }
+      },
+      {
+        "comment": "",
+        "key": "Offline — changes will sync when connected",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 135
+        }
+      },
+      {
+        "comment": "",
+        "key": "Nothing here yet",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 148
+        }
+      },
+      {
+        "comment": "",
+        "key": "Head to Search to add your first title.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 151
+        }
+      }
+    ]
+  },
+  "version": 1
+}

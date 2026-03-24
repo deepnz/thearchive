@@ -1,0 +1,23 @@
+{
+  "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/TheArchive/Services/AuthService.swift" : {
+    "const-values" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/x86_64/AuthService.swiftconstvalues",
+    "dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/x86_64/AuthService.d",
+    "diagnostics" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/x86_64/AuthService.dia",
+    "object" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/x86_64/AuthService.o",
+    "swift-dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/x86_64/AuthService.swiftdeps"
+  },
+  "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/TheArchive/Services/CloudKitService.swift" : {
+    "const-values" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/x86_64/CloudKitService.swiftconstvalues",
+    "dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/x86_64/CloudKitService.d",
+    "diagnostics" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/x86_64/CloudKitService.dia",
+    "object" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/x86_64/CloudKitService.o",
+    "swift-dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/x86_64/CloudKitService.swiftdeps"
+  },
+  "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/TheArchive/Services/iTunesService.swift" : {
+    "const-values" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/x86_64/iTunesService.swiftconstvalues",
+    "dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/x86_64/iTunesService.d",
+    "diagnostics" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/x86_64/iTunesService.dia",
+    "object" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/x86_64/iTunesService.o",
+    "swift-dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/x86_64/iTunesService.swiftdeps"
+  }
+}

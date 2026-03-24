@@ -1,0 +1,23 @@
+{
+  "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/TheArchive/Theme/ArchiveTheme.swift" : {
+    "const-values" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/ArchiveTheme.swiftconstvalues",
+    "dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/ArchiveTheme.d",
+    "diagnostics" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/ArchiveTheme.dia",
+    "object" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/ArchiveTheme.o",
+    "swift-dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/ArchiveTheme.swiftdeps"
+  },
+  "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/TheArchive/ViewModels/LibraryViewModel.swift" : {
+    "const-values" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/LibraryViewModel.swiftconstvalues",
+    "dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/LibraryViewModel.d",
+    "diagnostics" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/LibraryViewModel.dia",
+    "object" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/LibraryViewModel.o",
+    "swift-dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/LibraryViewModel.swiftdeps"
+  },
+  "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/TheArchive/ViewModels/SearchViewModel.swift" : {
+    "const-values" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/SearchViewModel.swiftconstvalues",
+    "dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/SearchViewModel.d",
+    "diagnostics" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/SearchViewModel.dia",
+    "object" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/SearchViewModel.o",
+    "swift-dependencies" : "/Users/deepaknalla/ideaprojects/appletv-app/TheArchive/build/TheArchive.build/Debug-appletvsimulator/TheArchive.build/Objects-normal/arm64/SearchViewModel.swiftdeps"
+  }
+}
